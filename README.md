@@ -72,4 +72,3 @@ Feel free to contribute by optimizing the layout strategy or extending API funct
 
 ## License
 This project is licensed under the MIT License.
-
